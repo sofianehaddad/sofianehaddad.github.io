@@ -10,7 +10,7 @@
     .. note::
         :class: sphx-glr-download-link-note
 
-        Click :ref:`here <sphx_glr_download_auto_example_plot_basic.py>`
+        :ref:`Go to the end <sphx_glr_download_auto_example_plot_basic.py>`
         to download the full example code
 
 .. rst-class:: sphx-glr-example-title
@@ -29,7 +29,7 @@ This example aims to illustrate how to use the module.
 
 | Loading python modules
 
-.. GENERATED FROM PYTHON SOURCE LINES 12-18
+.. GENERATED FROM PYTHON SOURCE LINES 12-17
 
 .. code-block:: default
 
@@ -37,7 +37,6 @@ This example aims to illustrate how to use the module.
     from openturns.viewer import View
     import numpy as np
     import ottemplate
-    from matplotlib import pylab as plt
 
 
 
@@ -46,11 +45,11 @@ This example aims to illustrate how to use the module.
 
 
 
-.. GENERATED FROM PYTHON SOURCE LINES 19-20
+.. GENERATED FROM PYTHON SOURCE LINES 18-19
 
 | Using the module to compute power
 
-.. GENERATED FROM PYTHON SOURCE LINES 20-22
+.. GENERATED FROM PYTHON SOURCE LINES 19-21
 
 .. code-block:: default
 
@@ -69,11 +68,11 @@ This example aims to illustrate how to use the module.
 
 
 
-.. GENERATED FROM PYTHON SOURCE LINES 23-24
+.. GENERATED FROM PYTHON SOURCE LINES 22-23
 
 | Compute power using arrays
 
-.. GENERATED FROM PYTHON SOURCE LINES 24-27
+.. GENERATED FROM PYTHON SOURCE LINES 23-26
 
 .. code-block:: default
 
@@ -87,11 +86,11 @@ This example aims to illustrate how to use the module.
 
 
 
-.. GENERATED FROM PYTHON SOURCE LINES 28-29
+.. GENERATED FROM PYTHON SOURCE LINES 27-28
 
 | Use of graph objects
 
-.. GENERATED FROM PYTHON SOURCE LINES 29-32
+.. GENERATED FROM PYTHON SOURCE LINES 28-31
 
 .. code-block:: default
 
@@ -113,7 +112,7 @@ This example aims to illustrate how to use the module.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  0.074 seconds)
+   **Total running time of the script:** ( 0 minutes  0.455 seconds)
 
 
 .. _sphx_glr_download_auto_example_plot_basic.py:
@@ -121,6 +120,8 @@ This example aims to illustrate how to use the module.
 .. only:: html
 
   .. container:: sphx-glr-footer sphx-glr-footer-example
+
+
 
 
     .. container:: sphx-glr-download sphx-glr-download-python

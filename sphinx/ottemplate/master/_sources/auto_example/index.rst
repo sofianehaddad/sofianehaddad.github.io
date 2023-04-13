@@ -15,7 +15,7 @@
 .. only:: html
 
   .. image:: /auto_example/images/thumb/sphx_glr_plot_basic_thumb.png
-    :alt: Example : Using ottemplatepython module
+    :alt:
 
   :ref:`sphx_glr_auto_example_plot_basic.py`
 
