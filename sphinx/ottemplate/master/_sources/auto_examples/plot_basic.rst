@@ -21,15 +21,15 @@
 Example : Using ottemplatepython module
 ---------------------------------------
 
-.. GENERATED FROM PYTHON SOURCE LINES 6-7
+.. GENERATED FROM PYTHON SOURCE LINES 7-8
 
 This example aims to illustrate how to use the module.
 
-.. GENERATED FROM PYTHON SOURCE LINES 9-10
+.. GENERATED FROM PYTHON SOURCE LINES 10-11
 
 | Loading python modules
 
-.. GENERATED FROM PYTHON SOURCE LINES 12-17
+.. GENERATED FROM PYTHON SOURCE LINES 13-18
 
 .. code-block:: Python
 
@@ -45,11 +45,11 @@ This example aims to illustrate how to use the module.
 
 
 
-.. GENERATED FROM PYTHON SOURCE LINES 18-19
+.. GENERATED FROM PYTHON SOURCE LINES 19-20
 
 | Using the module to compute power
 
-.. GENERATED FROM PYTHON SOURCE LINES 19-21
+.. GENERATED FROM PYTHON SOURCE LINES 20-22
 
 .. code-block:: Python
 
@@ -68,11 +68,11 @@ This example aims to illustrate how to use the module.
 
 
 
-.. GENERATED FROM PYTHON SOURCE LINES 22-23
+.. GENERATED FROM PYTHON SOURCE LINES 23-24
 
 | Compute power using arrays
 
-.. GENERATED FROM PYTHON SOURCE LINES 23-26
+.. GENERATED FROM PYTHON SOURCE LINES 24-27
 
 .. code-block:: Python
 
@@ -86,11 +86,11 @@ This example aims to illustrate how to use the module.
 
 
 
-.. GENERATED FROM PYTHON SOURCE LINES 27-28
+.. GENERATED FROM PYTHON SOURCE LINES 28-29
 
 | Use of graph objects
 
-.. GENERATED FROM PYTHON SOURCE LINES 28-31
+.. GENERATED FROM PYTHON SOURCE LINES 29-32
 
 .. code-block:: Python
 
@@ -112,7 +112,7 @@ This example aims to illustrate how to use the module.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** (0 minutes 0.254 seconds)
+   **Total running time of the script:** (0 minutes 0.251 seconds)
 
 
 .. _sphx_glr_download_auto_examples_plot_basic.py:
