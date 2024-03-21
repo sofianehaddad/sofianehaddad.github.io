@@ -31,7 +31,7 @@ This example aims to illustrate how to use the module.
 
 .. GENERATED FROM PYTHON SOURCE LINES 12-17
 
-.. code-block:: default
+.. code-block:: Python
 
     import openturns as ot
     from openturns.viewer import View
@@ -51,7 +51,7 @@ This example aims to illustrate how to use the module.
 
 .. GENERATED FROM PYTHON SOURCE LINES 19-21
 
-.. code-block:: default
+.. code-block:: Python
 
     print(ottemplate.MyClass(3).power(2))
 
@@ -74,7 +74,7 @@ This example aims to illustrate how to use the module.
 
 .. GENERATED FROM PYTHON SOURCE LINES 23-26
 
-.. code-block:: default
+.. code-block:: Python
 
     array = np.linspace(-5, 5, 101)
     values = ottemplate.MyClass(array).power(2.0)
@@ -92,7 +92,7 @@ This example aims to illustrate how to use the module.
 
 .. GENERATED FROM PYTHON SOURCE LINES 28-31
 
-.. code-block:: default
+.. code-block:: Python
 
     graph = ot.Graph('Square function', 'x1', 'x2', True, '')
     graph.add(ot.Cloud(array, values))
@@ -112,7 +112,7 @@ This example aims to illustrate how to use the module.
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 0 minutes  0.455 seconds)
+   **Total running time of the script:** (0 minutes 0.255 seconds)
 
 
 .. _sphx_glr_download_auto_example_plot_basic.py:
@@ -121,13 +121,10 @@ This example aims to illustrate how to use the module.
 
   .. container:: sphx-glr-footer sphx-glr-footer-example
 
+    .. container:: sphx-glr-download sphx-glr-download-jupyter
 
-
+      :download:`Download Jupyter notebook: plot_basic.ipynb <plot_basic.ipynb>`
 
     .. container:: sphx-glr-download sphx-glr-download-python
 
       :download:`Download Python source code: plot_basic.py <plot_basic.py>`
-
-    .. container:: sphx-glr-download sphx-glr-download-jupyter
-
-      :download:`Download Jupyter notebook: plot_basic.ipynb <plot_basic.ipynb>`
